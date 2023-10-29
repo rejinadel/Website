@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.header-home {
+    background-color: #3498db;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+.main-content {
+    padding: 40px;
+    text-align: center;
+}
+
+.introduction {
+    margin-bottom: 30px;
+}
+
+.portfolio-highlights {
+    margin-bottom: 40px;
+}
+
+.work-item {
+    margin-bottom: 40px;
+    text-align: center; 
+}
+
+.work-item img {
+    width: 400%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+h3 {
+    color: #3498db;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555;
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+
+.footer-home {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
